@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LifeXP - Mi Progreso</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>LifeXP</h1>
+
+        <div class="stats-container">
+            <p>Nivel: <span id="level">1</span></p>
+            <div class="progress-bar-container">
+                <div id="progress-bar"></div>
+            </div>
+            <p>XP: <span id="current-xp">0</span> / 100</p>
+        </div>
+
+        <div class="input-container">
+            <input type="text" id="task-input" placeholder="Nueva tarea o hábito...">
+            <select id="difficulty">
+                <option value="10">Fácil (10 XP)</option>
+                <option value="25">Media (25 XP)</option>
+                <option value="50">Difícil (50 XP)</option>
+            </select>
+            <button id="add-btn">Añadir</button>
+        </div>
+
+        <ul id="task-list">
+            </ul>
+    </div>
+    <button id="reset-btn" class="btn-reset">Reiniciar Progreso</button>
+    <script src="script.js"></script>
+    
+</body>
+</html>
