@@ -32,4 +32,4 @@
 3. ¡Empieza a subir de nivel tu vida!
 
 ---
-Desarrollado con 💜 por [Tu Nombre]
+Desarrollado con 💜 por Miguel Gambín Martínez
