@@ -2,7 +2,7 @@
 
 **LifeXP** es una aplicación web de gestión de tareas que transforma la productividad diaria en una experiencia de juego (RPG). El objetivo es motivar al usuario a completar sus pendientes mediante un sistema de niveles y puntos de experiencia (XP).
 
-✨ **[Ver Demo en Vivo aquí]((https://lifexp-author.netlify.app/))**
+✨ **[Ver Demo en Vivo aquí](https://lifexp-author.netlify.app/)**
 
 ---
 
