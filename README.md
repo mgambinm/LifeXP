@@ -25,10 +25,6 @@
 
 ---
 
-## 📸 Vista Previa
-![Captura de pantalla de LifeXP](https://via.placeholder.com/800x400?text=Puedes+poner+una+captura+de+tu+app+aquí)
-
----
 
 ## 🚀 Instalación y Uso
 1. Clona este repositorio.
